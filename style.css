@@ -7,19 +7,10 @@
     font-family: 'Raleway', sans-serif;
   }
 
-  .column {
-    float: left;
-    width: 33.33%;
-  }
-
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-    }
-  }
-
-  .footer {
-    background-color: #F1F1F1;
+  .Footer {
+    background-color: darkgreen;
     text-align: center;
-    padding: 10px;
+    padding: 15px;
+    color:white;
+    font-family: 'Raleway', sans-serif;
   }
