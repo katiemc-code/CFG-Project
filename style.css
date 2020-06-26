@@ -1,13 +1,10 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-  }
-
   .Header {
-    color: green;
+    color: white;
     background-color:turquoise;
     text-align: center;
     padding: 20px;
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
   }
 
   .column {
