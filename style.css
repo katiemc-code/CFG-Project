@@ -3,8 +3,9 @@ body {
     margin: 0;
   }
 
-  .header {
-    background-color: #F1F1F1;
+  .Header {
+    color: green;
+    background-color:turquoise;
     text-align: center;
     padding: 20px;
   }
