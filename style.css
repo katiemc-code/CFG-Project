@@ -7,6 +7,10 @@
     font-family: 'Raleway', sans-serif;
   }
 
+  a[href^="mailto"] {
+    color: white; 
+  }
+
   .Footer {
     background-color: darkgreen;
     text-align: center;
