@@ -3,12 +3,12 @@
     background-color:turquoise;
     text-align: center;
     padding: 20px;
-    font-size: large;
+    font-size: larger;
     font-family: 'Raleway', sans-serif;
   }
 
-  a[href^="mailto"] {
-    color: white; 
+  body {
+    align-content: centre;
   }
 
   .Footer {
@@ -17,4 +17,9 @@
     padding: 15px;
     color:white;
     font-family: 'Raleway', sans-serif;
+    font-size: small;
+  }
+
+  a[href^="mailto"] {
+    color: white; 
   }
