@@ -79,3 +79,22 @@
   a[href^="mailto"] {
     color: white; 
   }
+
+  .container {
+    width: 25%;
+    height: 25%;
+  }
+
+  .carouselExampleControls: {
+    width: 50%;
+    height: 50%;
+    align-content: center;
+    padding: 20px;
+  }
+
+
+  .carousel-caption {
+    padding-top: 20px;
+    color: black;
+    background-color:white;
+  }
